@@ -52,6 +52,3 @@ streamlit run app.py
 🔹 Fix: Ensure df.pkl exists. You can create one by scraping song data or using an existing dataset.
 
 
-
-🏆 Author & Credits
-🎤 Developed by Aryaman Garg
