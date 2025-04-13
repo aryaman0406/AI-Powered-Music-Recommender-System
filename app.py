@@ -10,8 +10,8 @@
 # from sklearn.metrics.pairwise import cosine_similarity
 
 # # Replace with your Spotify API credentials
-# SPOTIFY_CLIENT_ID = "0b2bbb3a8f894878ac319cd944044331"
-# SPOTIFY_CLIENT_SECRET = "10aa26133be14b2eb76cc349bcbbc96b"
+# SPOTIFY_CLIENT_ID = ""
+# SPOTIFY_CLIENT_SECRET = ""
 
 # # Initialize Spotify API client
 # client_credentials_manager = SpotifyClientCredentials(client_id=SPOTIFY_CLIENT_ID, client_secret=SPOTIFY_CLIENT_SECRET)
